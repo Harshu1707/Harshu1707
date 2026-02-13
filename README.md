@@ -45,10 +45,9 @@ Data Analysis • Machine Learning • Neural Networks • Data Visualization �
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshu1707&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshu1707&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshu1707&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshu1707&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 
@@ -73,6 +72,20 @@ Data analytics project that analyzes vehicle data to identify performance trends
 IoT-enabled Node-RED based elevator automation with voice control, load detection, biometric authentication, and MQTT monitoring.
 
 ---
+
+
+## 🏆 Achievements
+
+- 🎯 Built 5+ real-world end-to-end data science & ML projects
+- 📊 Developed dashboards and visualizations using Pandas, Matplotlib & Seaborn
+- 🤖 Designed intelligent systems using Neural Networks and Machine Learning
+- ⚙️ Engineered IoT automation projects with Node-RED + ESP32 + MQTT
+- 🧠 Strong problem solving with Data Structures & Algorithms
+- 🚀 Consistently improving code quality, documentation, and system design
+- 📂 Active open-source contributor with multiple public repositories
+
+---
+
 
 ## 📚 Currently Learning
 
