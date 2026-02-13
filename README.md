@@ -41,12 +41,14 @@ Data Analysis • Machine Learning • Neural Networks • Data Visualization �
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshu1707&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshu1707&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshu1707&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshu1707&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
